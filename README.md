@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm ✨**Visruth**✨.
 
-I have one week of free time every month so if you have any temporary requirements please [contact me](https://calendly.com/visruth).
+I have one week of free time every month so if you have any temporary requirements please [contact me](https://calendly.com/visruth) (not interested in outsourcing companies).
+
 
 Visit my [stackoverflow profile](https://stackoverflow.com/users/1516759/visruth).
 
