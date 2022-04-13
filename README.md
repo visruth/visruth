@@ -1,8 +1,9 @@
 ### Hi there 👋
 I'm ✨**Visruth**✨.
 
-I have one week of free time every month so if you have any temporary requirements please [contact me](https://calendly.com/visruth) (not interested in outsourcing companies).
+I have one week of free time every month so if you have any temporary requirements please [contact me](https://calendly.com/visruth).
 
+- 🔭 I’m currently working on Java 17.
 
 Visit my [stackoverflow profile](https://stackoverflow.com/users/1516759/visruth).
 
