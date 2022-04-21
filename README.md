@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm ✨**Visruth**✨.
 
-I have one week of free time every month so if you have any temporary requirements please [contact me](https://calendly.com/visruth).
+I have one week of free time every month so if you think I can help you some way please feel free to [contact me](https://calendly.com/visruth) (paid support only).
 
 - 🔭 I’m currently working on Java 17.
 
