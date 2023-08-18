@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Other useful videos: [video1](https://youtu.be/ThV4JxGGyuY), [video2](https://youtu.be/qDQS_VqWbFo)
+Other useful videos: [video1](https://youtu.be/ThV4JxGGyuY)
