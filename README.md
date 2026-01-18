@@ -3,7 +3,7 @@ I'm ✨**Visruth**✨.
 
 I'm proud to be a human being and I'm lucky to born in India.
 
-I'm proud of my country. [This is a small overview of my country](https://www.youtube.com/watch?v=IAeTXi0oHIQ).
+I'm proud of my country!
 
 One of my contributions: Workaround for a bug in [Oracle's GraalVM](https://github.com/oracle/graal/discussions/4670#discussioncomment-4311496)
 
