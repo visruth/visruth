@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm ✨**Visruth**✨.
 
-I'm proud to be a human being and I'm lucky to born in India.
+I'm a simple human being.
 
 I'm proud of my country!
 
