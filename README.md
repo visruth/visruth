@@ -7,11 +7,11 @@ I'm proud of my country!
 
 One of my contributions: Workaround for a bug in [Oracle's GraalVM](https://github.com/oracle/graal/discussions/4670#discussioncomment-4311496)
 
-Watch [this video which I published a decade back](https://youtu.be/wmIQ50V1W0w?si=N_y1zJKMZqeZv5UN).
+Watch [this video which I published a decade ago](https://youtu.be/wmIQ50V1W0w?si=N_y1zJKMZqeZv5UN).
 
-I have one week of free time every month so if you think I can help you some way with my little knowledge please feel free to [contact me](https://calendly.com/visruth) (paid support only).
+ Schedule a [meeting](https://calendly.com/visruth).
 
-- 🔭 I currently work on Java 25.
+- 🔭 I currently work on Java 27.
 
 [Click here to send me a quick message!](https://konpaira.com/ui/visruth)
 
